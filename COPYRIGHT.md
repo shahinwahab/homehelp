@@ -1,14 +1,12 @@
-## Copyright © 2025 shahinwahab
+## © 2025 Shahin Wahab. All Rights Reserved.
 
-This repository contains portfolio demonstrations of work created for clients.
+**PROPRIETARY AND CONFIDENTIAL**
 
-All projects and content remain the property of respective clients  
-and are shown here with permission of the clients for portfolio purposes only.
+This repository contains work product developed for third-party clients.
+All intellectual property rights are retained by the respective rights holders.
 
-Unauthorized reproduction, distribution, or commercial use is strictly 
-prohibited.
+This material is provided for portfolio demonstration purposes only.
+No license, express or implied, is granted.
 
-Violators may face legal consequences, including but not limited to:
-- 🚫 DMCA takedowns
-- 🔒 Platform bans
-- ⚖️ Prosecution to the fullest extent of the law
+Unauthorized access, reproduction, distribution, or use of any content
+herein may subject you to civil and criminal penalties under applicable law.
