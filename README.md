@@ -9,11 +9,11 @@
 </p>
 
 <p>
-  <b>On-demand home services marketplace connecting customers with trusted professionals</b>
+  <b>Two-sided home services marketplace with real-time chat and payment tracking</b>
 </p>
 
 <p>
-  <i>Book plumbers, electricians, cleaners, and more — with real-time chat, instant booking, and secure payments.</i>
+  <i>Customers book services, workers manage jobs — WhatsApp-style messaging, quote negotiation, one Flutter codebase.</i>
 </p>
 
 <p>
