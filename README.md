@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/6%20Platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-0891b2" alt="Platforms">
   <img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter" alt="Flutter">
   <img src="https://img.shields.io/badge/Firebase-Firestore%20%7C%20Auth-FFA000?logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/Cloudinary-Image%20CDN-3448C5?logo=cloudinary" alt="Cloudinary">
   <img src="https://img.shields.io/badge/Tests-103%20Passing-22c55e" alt="Tests">
 </p>
 
