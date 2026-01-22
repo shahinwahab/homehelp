@@ -77,7 +77,7 @@
 
 **Shahin Wahab** — Software Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shahinwahab.com-0891b2?style=for-the-badge)](https://shahinwahab.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahinwahab)
+#### <a href="https://shahinwahab.com">🌐 shahinwahab.com</a> • <a href="https://linkedin.com/in/shahinwahab">💼 LinkedIn</a>
 
 ---
 > **Repository created on:** 2025-12-08, 22:33 (UTC+3)
