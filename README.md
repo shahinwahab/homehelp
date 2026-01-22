@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Tests-103%20Passing-22c55e" alt="Tests">
 </p>
 
-###  Two-sided home services marketplace with real-time chat and payment tracking
+####  Two-sided home services marketplace with real-time chat and payment tracking
 
 <p>
   <i>Customers book services, workers manage jobs — WhatsApp-style messaging, quote negotiation, one Flutter codebase.</i>
