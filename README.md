@@ -8,17 +8,13 @@
   <img src="https://img.shields.io/badge/Tests-103%20Passing-22c55e" alt="Tests">
 </p>
 
-####  Two-sided home services marketplace with real-time chat and payment tracking
+#### Two-sided home services marketplace with real-time chat and payment tracking
 
 <p>
   <i>Customers book services, workers manage jobs — WhatsApp-style messaging, quote negotiation, one Flutter codebase.</i>
 </p>
 
-<p>
-  <a href="https://homehelp-app.web.app">🌐 Live Demo</a> •
-  <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.apk">📥 Download APK</a> •
-  <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.exe">📥 Windows</a>
-</p>
+#### <a href="https://homehelp-app.web.app">🌐 Visit</a> • <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.apk">📥 APK</a> • <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.exe">📥 Windows</a>
 
 ---
 
