@@ -11,7 +11,7 @@
 #### Two-sided home services marketplace with real-time chat and payment tracking
 
 <p>
-  <i>Customers book services, workers manage jobs — WhatsApp-style messaging, quote negotiation, one Flutter codebase.</i>
+  <i>Customers book services, workers manage jobs — Real time chat, quote negotiation, one Flutter codebase.</i>
 </p>
 
 #### <a href="https://homehelp-app.web.app">🌐 Visit</a> • <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.apk">📥 APK</a> • <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.exe">📥 Windows</a>
