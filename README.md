@@ -14,7 +14,7 @@
   <i>Customers book services, workers manage jobs — Real time chat, quote negotiation, one Flutter codebase.</i>
 </p>
 
-#### <a href="https://homehelp-app.web.app">🌐 Visit</a> • <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.apk">📥 APK</a> • <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.exe">📥 Windows</a>
+#### <a href="https://homehelp-app.web.app">🌐 Visit</a> • <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.apk">📥 APK</a> • <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp-windows-x64.zip">📥 Windows</a>
 
 ---
 
